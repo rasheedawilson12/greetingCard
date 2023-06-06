@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1,
+h2 {
+  text-align: center;
+  color: #f2bed1;
+  font-variant: small-caps;
+  font-size: 75px;
+}
+
+.card {
+  display: block;
+  margin: 50px auto 10px;
+  padding: 50px;
+  background-color: #b5f1cc;
+  border-radius: 10px;
+  width: 50%;
+}
+
+.mainImg {
+  display: block;
+  border: 5px dotted #fcc2fc;
+  margin: 0 auto;
+  border-radius: 15px;
+}
+
+.open {
+  display: block;
+  margin: 0 auto;
+  background-color: #b5f1cc;
+  color: #f2bed1;
+  border: 5px dotted#f2bed1;
+  border-radius: 15px;
+  margin-top: 5px;
+  padding: 5px;
+  font-size: 24px;
+  font-weight: bold;
+}
